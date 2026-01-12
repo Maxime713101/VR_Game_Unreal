@@ -1321,3 +1321,50 @@ The following settings have been applied:
 [2026.01.12-15.26.19:815][ 43]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 315.500488
 [2026.01.12-15.26.20:814][ 46]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.01.12-15.26.20:814][ 46]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 316.167267, Update Interval: 356.936554
+[2026.01.12-15.27.05:439][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.01.12-15.27.05:440][815]LogStreaming: Display: FlushAsyncLoading(353): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.12-15.27.05:488][815]LogChaosDD: Creating Chaos Debug Draw Scene for world Nuit_Noce
+[2026.01.12-15.27.05:488][815]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maxime/Levels/Nuit_Noce.Nuit_Noce'.
+[2026.01.12-15.27.05:547][815]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maxime/Levels/Nuit_Noce.Nuit_Noce
+[2026.01.12-15.27.05:547][815]Cmd: MAP LOAD FILE="D:/Maxoudoudou/GitHub/VR_Game_Unreal/Houses_memories/Content/Maxime/Levels/Nuit_Noce.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.01.12-15.27.05:615][815]LogWorld: UWorld::CleanupWorld for VR_Base, bSessionEnded=true, bCleanupResources=true
+[2026.01.12-15.27.05:617][815]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.01.12-15.27.05:617][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.12-15.27.05:636][815]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.12-15.27.05:643][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.01.12-15.27.05:650][815]LogWorld: UWorld::CleanupWorld for Nuit_Noce, bSessionEnded=true, bCleanupResources=true
+[2026.01.12-15.27.05:650][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.12-15.27.05:673][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.01.12-15.27.05:691][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.01.12-15.27.05:693][815]LogAudio: Display: Audio Device (ID: 1) registered with world 'Nuit_Noce'.
+[2026.01.12-15.27.05:693][815]LogChaosDD: Creating Chaos Debug Draw Scene for world Nuit_Noce
+[2026.01.12-15.27.05:694][815]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maxime/Levels/Nuit_Noce.Nuit_Noce'.
+[2026.01.12-15.27.05:758][815]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.01.12-15.27.05:781][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.01.12-15.27.05:796][815]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.01.12-15.27.05:796][815]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,042ms to complete.
+[2026.01.12-15.27.09:268][153]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.01.12-15.27.13:206][574]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2026.01.12-15.27.13:206][574]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_0'.
+[2026.01.12-15.27.17:300][  9]Cmd: TRANSACTION UNDO
+[2026.01.12-15.27.17:300][  9]LogEditorTransaction: Undo Set Rotation
+[2026.01.12-15.27.19:543][218]Cmd: TRANSACTION UNDO
+[2026.01.12-15.27.19:543][218]LogEditorTransaction: Undo Set Rotation
+[2026.01.12-15.27.22:627][575]Cmd: TRANSACTION UNDO
+[2026.01.12-15.27.22:629][575]LogEditorTransaction: Undo Set Rotation
+[2026.01.12-15.27.29:961][384]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.12-15.27.29:996][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maxime/Levels/Nuit_Noce" FILE="D:/Maxoudoudou/GitHub/VR_Game_Unreal/Houses_memories/Content/Maxime/Levels/Nuit_Noce.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.01.12-15.27.30:053][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.01.12-15.27.30:065][384]LogSavePackage: Moving output files for package: /Game/Maxime/Levels/Nuit_Noce
+[2026.01.12-15.27.30:065][384]LogSavePackage: Moving 'D:/Maxoudoudou/GitHub/VR_Game_Unreal/Houses_memories/Saved/Nuit_Noce4AB05FEE493ACEBD106F84996F2BE871.tmp' to 'D:/Maxoudoudou/GitHub/VR_Game_Unreal/Houses_memories/Content/Maxime/Levels/Nuit_Noce.umap'
+[2026.01.12-15.27.30:082][384]LogFileHelpers: Saving map 'Nuit_Noce' took 0.086
+[2026.01.12-15.27.30:093][384]LogFileHelpers: InternalPromptForCheckoutAndSave took 131.905 ms
+[2026.01.12-15.27.30:176][384]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.12-15.27.30:177][384]LogContentValidation: Enabled validators:
+[2026.01.12-15.27.30:177][384]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.12-15.27.30:177][384]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.12-15.27.30:177][384]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.12-15.27.30:177][384]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.12-15.27.30:177][384]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.12-15.27.30:177][384]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.12-15.27.30:177][384]AssetCheck: /Game/Maxime/Levels/Nuit_Noce Validating asset
