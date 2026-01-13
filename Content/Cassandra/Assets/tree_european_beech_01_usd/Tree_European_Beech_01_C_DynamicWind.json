@@ -1,0 +1,387 @@
+{
+    "Joints": [
+        {
+            "JointName": "European_Beech_01_C_point_0",
+            "SimulationGroupIndex": 0
+        },
+        {
+            "JointName": "European_Beech_01_C_point_1",
+            "SimulationGroupIndex": 0
+        },
+        {
+            "JointName": "European_Beech_01_C_point_2",
+            "SimulationGroupIndex": 0
+        },
+        {
+            "JointName": "European_Beech_01_C_point_3",
+            "SimulationGroupIndex": 0
+        },
+        {
+            "JointName": "European_Beech_01_C_point_4",
+            "SimulationGroupIndex": 0
+        },
+        {
+            "JointName": "European_Beech_01_C_point_5",
+            "SimulationGroupIndex": 0
+        },
+        {
+            "JointName": "European_Beech_01_C_point_6",
+            "SimulationGroupIndex": 0
+        },
+        {
+            "JointName": "European_Beech_01_C_point_7",
+            "SimulationGroupIndex": 0
+        },
+        {
+            "JointName": "European_Beech_01_C_point_8",
+            "SimulationGroupIndex": 0
+        },
+        {
+            "JointName": "European_Beech_01_C_point_9",
+            "SimulationGroupIndex": 0
+        },
+        {
+            "JointName": "European_Beech_01_C_point_10",
+            "SimulationGroupIndex": 0
+        },
+        {
+            "JointName": "European_Beech_01_C_point_11",
+            "SimulationGroupIndex": 0
+        },
+        {
+            "JointName": "European_Beech_01_C_point_12",
+            "SimulationGroupIndex": 0
+        },
+        {
+            "JointName": "European_Beech_01_C_point_13",
+            "SimulationGroupIndex": 0
+        },
+        {
+            "JointName": "European_Beech_01_C_point_14",
+            "SimulationGroupIndex": 0
+        },
+        {
+            "JointName": "European_Beech_01_C_point_15",
+            "SimulationGroupIndex": 0
+        },
+        {
+            "JointName": "European_Beech_01_C_point_16",
+            "SimulationGroupIndex": 0
+        },
+        {
+            "JointName": "European_Beech_01_C_point_17",
+            "SimulationGroupIndex": 0
+        },
+        {
+            "JointName": "European_Beech_01_C_point_18",
+            "SimulationGroupIndex": 0
+        },
+        {
+            "JointName": "European_Beech_01_C_point_19",
+            "SimulationGroupIndex": 0
+        },
+        {
+            "JointName": "European_Beech_01_C_point_20",
+            "SimulationGroupIndex": 0
+        },
+        {
+            "JointName": "European_Beech_01_C_point_21",
+            "SimulationGroupIndex": 0
+        },
+        {
+            "JointName": "European_Beech_01_C_point_22",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_23",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_24",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_25",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_26",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_27",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_28",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_29",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_30",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_31",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_32",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_33",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_34",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_35",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_36",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_37",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_38",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_39",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_40",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_41",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_42",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_43",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_44",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_45",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_46",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_47",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_48",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_49",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_50",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_51",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_52",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_53",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_54",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_55",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_56",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_57",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_58",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_59",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_60",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_61",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_62",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_63",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_64",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_65",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_66",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_67",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_68",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_69",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_70",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_71",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_72",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_73",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_74",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_75",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_76",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_77",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_78",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_79",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_80",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_81",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_82",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_83",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_84",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_85",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_86",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_87",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_88",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_89",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_90",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_91",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_92",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_93",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "European_Beech_01_C_point_94",
+            "SimulationGroupIndex": 2
+        }
+    ],
+    "SimulationGroups": [],
+    "bIsGroundCover": false,
+    "GustAttenuation": 0.0
+}
